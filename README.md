@@ -1,1 +1,1 @@
-# scmg
+# wonlab-metagenome.2018
